@@ -99,28 +99,19 @@ color: var(--accent-color);
     color: var(--accent-color);
 }
 
-.servise-button {
-    font-weight: 700;
-    font-size: 16px;
-    line-height: 1.88;
-    letter-spacing: 0.06em;
-    color: #FFFFFF;
-    background-color: var(--accent-color);
-    cursor: pointer;
-}
 
 /* ----------------- /Секція Hero --------------- */
  
-/* ----------------- Секція Переваги --------------- */
-.advantages-list-quantity {
+/* ----------------- Секція Внутрішні документи --------------- */
+.internal-documents-list-link {
 font-weight: 700;
-font-size: 14px;
+font-size: 16px;
 line-height: 1.14;
 letter-spacing: 0.03em;
 color: var(--main-color);
 }
 
-.advantages-list-description {
+.internal-documents-list-description {
 font-weight: 400;
 font-size: 14px;
 line-height: 1.71;
@@ -129,6 +120,30 @@ color: #757575;
 }
 
 /* ----------------- /Секція Переваги --------------- */
+
+
+/* ----------------- Секція Презентаційні матеріали --------------- */
+.presentations-list-title {
+
+}
+.presentations-list-link {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    color: var(--main-color);
+}
+
+.presentations-list-description {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+/* ----------------- /Секція Презентаційні матеріали --------------- */
+
 
 /* ----------------- Секція Чим займаємось --------------- */
 
