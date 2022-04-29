@@ -124,6 +124,11 @@ color: #757575;
 
 /* ----------------- Секція Презентаційні матеріали --------------- */
 .presentations-list-title {
+font-weight: 900;
+font-size: 18px;
+line-height: 1.8;
+letter-spacing: 0.04em;
+color: var(--accent-color);
 
 }
 .presentations-list-link {
